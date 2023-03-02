@@ -1,0 +1,173 @@
+ <!-- project section start -->
+    <!-- <section class="project" id="project" style="background-color: #F6EDE7;">
+        <div class="max-width">
+            <h2 class="title">Projects</h2>
+            <div class="carousel owl-carousel">
+                <div class="card">
+                    <div class="box">
+                        <img src="images/imgproject.PNG" alt="">
+                        <div class="text">Tata 1mg Clone</div>
+                        <p> <h4>Position :- Team Lead</h4>
+                            Clone of an E-commerce website 1mg.com , which sells
+                            Healthcare & Medicine products. <br> Collaborative Project accomplished with a team of 6
+                            developers in 6 days. <br> Responsibility :- Managed the team . and worked on lab-tests
+                            site , navbar and footer <br> <h4>Tech Stack :- HTML, CSS, JavaScript</h4></p>
+                        <div class="repo-links">
+                            <div class="repo-div">
+                                <span>  <a href="https://github.com/mohitbirla20/team_1mg" target="_blank" style="color: crimson;"> Git Repo </a></span>
+                            </div>
+                            <div class="demo-div">
+                                <span> <a href="https://fabulous-sorbet-67ec69.netlify.app/" target="_blank" style="color:crimson ;">  Live Site  </a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="box">
+                        <img src="images/project2.PNG" alt="">
+                        <div class="text">Idea_Cart Clone</div>
+                        <p><h4>Position :- Team Lead</h4>
+                            Clone of an E-commerce website ideakart.com , which is sells Novels and Books. <br> A collaborative project accomplished with a team 5 developers
+                            in one week. <br> Responsibility :- Managed the team . and worked on Backend
+                            to save the data in our local file.<br> <h4>Tech Stack :- HTML, CSS, JavaScript</h4>
+                        </p>
+                        <div class="repo-links">
+                            <div class="repo-div">
+                                <span>  <a href="https://github.com/mohitbirla20/ossified-temper-8142" target="_blank" style="color:crimson ;"> Git Repo </a></span>
+                            </div>
+                            <div class="demo-div">
+                                <span> <a href="https://musical-chaja-ae96fd.netlify.app/" target="_blank" style="color:crimson ;">  Live Site  </a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="box">
+                        <img src="images/DP.png" alt="">
+                        <div class="text">DIGI-POCKET</div>
+                        <p> <h4>Position :- Team Member</h4>
+                            Spring-Boot application project to develop REST API for the Online Payement Wallet app <br> Collaborative Project accomplished with a team of 5
+                            developers in 5 days. <br> Responsibility :- Beneficiary Model and Beneficiary Service<br> <h4>Tech Stack :- JAVA, MySQL, Spring-Boot,Hibernate</h4></p>
+                        <div class="repo-links">
+                            <div class="repo-div">
+                                <span>  <a href="https://github.com/Harshal-Jadhav/DIGI-POCKET" target="_blank" style="color: crimson;"> Git Repo </a></span>
+                            </div>
+                            <div class="demo-div">
+                                <span> <a href="https://drive.google.com/file/d/1kMZNw5HmboBrtAjPaeipMsKeggprKIMz/view?usp=share_link" target="_blank" style="color:crimson ;">  Live Video  </a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+
+                <div class="card">
+                    <div class="box">
+                        <img src="images/bus-booking-250x250.png" alt="">
+                        <div class="text">Bus Reservation System</div>
+                        <p> <h4>Individual Project</h4>
+                            This project is based on Bus Ticket Reservation System<br> Individual Project accomplished by me in 5 days. <br> Responsibility :- develop complete project<br> <h4>Tech Stack :- JAVA, MySQL, JDBC</h4></p>
+                        <div class="repo-links">
+                            <div class="repo-div">
+                                <span>  <a href="https://github.com/mohitbirla20/unbecoming-sofa-7946" target="_blank" style="color: crimson;"> Git Repo </a></span>
+                            </div>
+                            <div class="demo-div">
+                                <span> <a href="https://drive.google.com/file/d/1mY1JqRKiMAQEIS9GvvWlze8q877bEGEV/view?usp=sharing" target="_blank" style="color:crimson ;">  Live Video  </a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                       </div>
+        </div>
+    </section>
+
+
+
+
+   
+    
+    <div class="calendarDiv">
+        <h1>Github Stats
+        </h1>
+            <div class="calendar">
+                <!-- Loading stuff -->
+                <!-- Loading the data just for you. -->        
+    <!--        </div>
+    </div>
+    <p align="left">
+    
+    <p align="center" style="width:70%;margin:auto;" >
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohitbirla20&show_icons=true&theme=default" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbirla20&theme=default" />
+      
+    </p> -->
+
+
+
+   
+
+    <!-- services section start -->
+    <!-- <section class="services" id="services" style="background-color: #FFF9E5;">
+        <div class="max-width">
+            <h2 class="title">Statistics</h2>
+            <div class="serv-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">1600 + </div>
+                        <p>Hours of coding</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-chart-line"></i>
+                        <div class="text">800 + </div>
+                        <p>Hours of DSA</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">3</div>
+                        <p>Projects done</p>
+                    </div>
+                </div>
+               </div>
+            </div>
+        </div>
+    </section> -->
+    <!--
+    <section class="services" id="services" style="background-color: #FFF9E5; margin-top: -150px;">
+        <div class="max-width">
+            <h2 class="title">Statistics</h2> 
+            <div class="serv-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-angle-up"></i>
+                        <div class="text">200 + </div>
+                        <p>Hours soft skills training</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-chart-line"></i>
+                        <div class="text">600 +</div>
+                        <p>Hours of backend programing</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-laptop"></i>
+                        <div class="text">in 2 Projects</div>
+                        <p>Work as a Team Lead</p>
+                    </div>
+                </div>
+               </div>
+            </div>
+        </div>
+    </section> -->
